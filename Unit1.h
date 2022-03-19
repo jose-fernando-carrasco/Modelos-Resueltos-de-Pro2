@@ -8,6 +8,7 @@
 #include <Vcl.StdCtrls.hpp>
 #include <Vcl.Forms.hpp>
 #include <Vcl.Menus.hpp>
+#include <Vcl.Grids.hpp>
 //---------------------------------------------------------------------------
 class TForm1 : public TForm
 {
@@ -16,6 +17,7 @@ __published:	// IDE-managed Components
 	TMainMenu *MainMenu1;
 	TMenuItem *Menu1;
 	TMenuItem *Menu2;
+	TStringGrid *StringGrid1;
 	void __fastcall Menu2Click(TObject *Sender);
 private:	// User declarations
 public:		// User declarations

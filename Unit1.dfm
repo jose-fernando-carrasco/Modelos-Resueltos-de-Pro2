@@ -27,6 +27,19 @@ object Form1: TForm1
     Font.Style = [fsBold]
     ParentFont = False
   end
+  object StringGrid1: TStringGrid
+    Left = 64
+    Top = 232
+    Width = 481
+    Height = 41
+    ColCount = 1
+    DefaultColWidth = 35
+    DefaultRowHeight = 35
+    FixedCols = 0
+    RowCount = 1
+    FixedRows = 0
+    TabOrder = 0
+  end
   object MainMenu1: TMainMenu
     Left = 24
     Top = 16
