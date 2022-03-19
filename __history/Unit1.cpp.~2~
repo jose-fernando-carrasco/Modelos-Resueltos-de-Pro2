@@ -27,9 +27,3 @@ String p1Vocales(String s){
 }
 
 
-void __fastcall TForm1::Menu2Click(TObject *Sender)
-{
-  String cadena = InputBox("","","");
-  ShowMessage();
-}
-//---------------------------------------------------------------------------

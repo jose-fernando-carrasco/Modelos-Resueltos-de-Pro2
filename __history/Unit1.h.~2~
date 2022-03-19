@@ -16,7 +16,6 @@ __published:	// IDE-managed Components
 	TMainMenu *MainMenu1;
 	TMenuItem *Menu1;
 	TMenuItem *Menu2;
-	void __fastcall Menu2Click(TObject *Sender);
 private:	// User declarations
 public:		// User declarations
 	__fastcall TForm1(TComponent* Owner);
