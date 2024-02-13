@@ -3,7 +3,7 @@
 ## Soy un Software Developer 🇧🇴
 - 👨‍💻 Actualmente estoy aprendiendo más sobre desarrollo Web y Móvil.
 - 🥇 Objetivos 2024: Aplicar mis habilidades en Ingeniería de Sistemas para enfrentar desafíos en proyectos innovadores.
-- 📫 What is the best way to contact me? [:email: cartory](mailto:xXcartoryXx@gmail.com)
+- 📫 contactarme email: [:email: Fernando Oña](mailto:fernandocarrasc590@gmail.com)
 - 😄 Pronouns: He/Him
 
 ![Views](https://komarev.com/ghpvc/?username=cartory&color=blue&style=flat-square&label=PROFILE+VIEWS)
