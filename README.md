@@ -3,9 +3,10 @@
 ## Soy un Software Developer 🇧🇴
 - 👨‍💻 Actualmente estoy aprendiendo más sobre desarrollo Web y Móvil.
 - 🥇 Objetivos 2024: Aplicar mis habilidades en Ingeniería de Sistemas para enfrentar desafíos en proyectos innovadores.
-- 📫 contactarme email: [:email: Fernando Oña](mailto:fernandocarrasc590@gmail.com)
-- 📱 contactarme Whatsapp: [Fernando Oña](https://wa.me/59171029903?text=Hola%20Fernando%20te%20hablo%20por%20tu%20CV)
-- 😄 Pronouns: He/Him
+- 📫 contactarme email: [Fernando Oña](mailto:fernandocarrasc590@gmail.com)
+- 📱 contactarme Whatsapp: [Fernando Oña](https://wa.me/59171029903?text=Hola%20Fernando%20te%20hablo%20desde%20tu%20GitHub)
+- 😁 Apasionado por el desarrollo de software y el aprendizaje continuo.
+¡No dudes en echar un vistazo y contactarme si quieres colaborar o simplemente charlar sobre tecnología! 🚀
 
 ![Views](https://komarev.com/ghpvc/?username=cartory&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
