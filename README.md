@@ -26,7 +26,7 @@
 [![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)](https://docwiki.embarcadero.com/RADStudio/Alexandria/en/Delphi_Language_Guide_Index)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/docs/latest/api/)
-[![Assembly](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
+[![Assembly](https://img.shields.io/badge/Assembly-0000FF?style=for-the-badge&logo=assembly&logoColor=white)](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 
 
 
