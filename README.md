@@ -1,8 +1,8 @@
 # Hola Mundo, soy Fernando Oña <a title="Hi! 😊" href="https://www.youtube.com/@fernandoona3851" target="_blank"><img width="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" /></a>
 
-## I'm Javascript Developer 🇧🇴
-- 🌱 I am currently learning more about Web development.
-- 🏆 2022 Goals: Finish all my Web challenges.
+## Soy un Software Developer 🇧🇴
+- 👨‍💻 Actualmente estoy aprendiendo más sobre desarrollo Web y Móvil.
+- 🥇 Objetivos 2024: Aplicar mis habilidades en Ingeniería de Sistemas para enfrentar desafíos en proyectos innovadores.
 - 📫 What is the best way to contact me? [:email: cartory](mailto:xXcartoryXx@gmail.com)
 - 😄 Pronouns: He/Him
 
