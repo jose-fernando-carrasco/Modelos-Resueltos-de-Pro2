@@ -23,6 +23,8 @@
 [![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://devdocs.io/typescript/)
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://devdocs.io/cpp/)
+[![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)](https://docwiki.embarcadero.com/RADStudio/Alexandria/en/Delphi_Language_Guide_Index)
+
 
 
 [![React](https://img.shields.io/badge/React-0081CB?style=for-the-badge&logo=react)](https://reactjs.org)
