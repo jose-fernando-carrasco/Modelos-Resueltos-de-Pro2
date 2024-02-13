@@ -9,7 +9,7 @@
 
 ¡No dudes en echar un vistazo y contactarme si quieres colaborar o simplemente charlar sobre tecnología! 🚀
 
-![Views](https://komarev.com/ghpvc/?username=cartory&color=blue&style=flat-square&label=PROFILE+VIEWS)
+![Views](https://komarev.com/ghpvc/?username=jose-fernando-carrasco&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
 <!-- [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Bardiesel) -->
 [![Github](https://img.shields.io/badge/Github-FFFFFF?style=for-the-badge&logo=github&color=grey)](https://cartory.github.io/cari/)
